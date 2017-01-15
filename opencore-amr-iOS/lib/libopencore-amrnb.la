@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/Users/sunnysun/Work/cocos/opencore-amr-0.1.4/opencore-amr-iOS/lib'
+libdir='/Users/sunnysun/workspace/opencore-amr-0.1.4/opencore-amr-iOS/lib'
