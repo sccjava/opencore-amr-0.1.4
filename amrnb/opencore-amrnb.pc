@@ -1,0 +1,10 @@
+prefix=/Users/sunnysun/Work/cocos/opencore-amr-0.1.4/opencore-amr-iOS
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenCORE AMR-NB
+Description: Adaptive Multi-Rate speech codec library
+Version: 0.1.4
+Libs: -L${libdir} -lopencore-amrnb
+Cflags: -I${includedir}
